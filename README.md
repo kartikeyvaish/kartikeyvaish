@@ -1,4 +1,4 @@
-## Hi there, I'm Kartikey 👋
+# Hi there, I'm Kartikey 👋
 
 ## I'm a MERN Stack Developer!
 
