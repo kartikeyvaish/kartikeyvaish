@@ -44,6 +44,7 @@
 [<img align="left" alt="kartikeyvaish | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="kartikey__vaish | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img align="left" alt="kartikey__vaish | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img align="left" alt="kartikey-vaish | StackOverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />][stackOverflow]
 
 <br />
 <br />
@@ -53,5 +54,6 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikeyvaish&count_private=true&theme=radical" alt="kartikeyvaish" />
 
 [twitter]: https://twitter.com/kartikey__vaish
+[stackOverflow]: https://stackoverflow.com/users/13170636/kartikey-vaish
 [instagram]: https://instagram.com/kartikey__vaish
 [linkedin]: https://www.linkedin.com/in/kartikeyvaish/
