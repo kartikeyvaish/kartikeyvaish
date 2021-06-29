@@ -1,6 +1,6 @@
 # Hi there, I'm Kartikey 👋
 
-## I'm a MERN Stack Developer!
+## I'm a MERN Stack | React Native Developer!
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
