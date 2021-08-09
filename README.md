@@ -49,10 +49,6 @@
 <br />
 <br />
 
-### Github Stats:
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikeyvaish&count_private=true&theme=radical" alt="kartikeyvaish" />
-
 [twitter]: https://twitter.com/kartikey__vaish
 [stackOverflow]: https://stackoverflow.com/users/13170636/kartikey-vaish
 [instagram]: https://instagram.com/kartikey__vaish
