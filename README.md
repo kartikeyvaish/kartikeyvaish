@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ♥ React Native is Love
+- ♥ React Native with/without Expo is Love
 
 ### Languages and Tools Used:
 
