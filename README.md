@@ -3,7 +3,7 @@
 ## I'm a MERN Stack | React Native Developer!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ♥ React Native with/without Expo is Love
 
 ### Languages and Tools Used:
