@@ -1,6 +1,6 @@
 # Hi there, I'm Kartikey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## I'm a MERN Stack | React Native Developer!
+## I'm a React Native and Node.js Developer. In love with Typescipt, MongoDB.
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Contribute more to Open Source projects
