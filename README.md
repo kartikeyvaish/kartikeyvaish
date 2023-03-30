@@ -3,8 +3,9 @@
 ## I'm a React Native and Node.js Developer. In love with Typescipt, MongoDB.
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ♥ React Native with/without Expo is Love
+- ♥ Typescript is love too.
 
 ### Languages and Tools Used:
 
