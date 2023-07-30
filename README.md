@@ -59,6 +59,6 @@
 [instagram]: https://instagram.com/kartikey__vaish
 [linkedin]: https://www.linkedin.com/in/kartikeyvaish/
 
-### Stackoverflow Stats
+### Stack Overflow Stats
 
 <a href="https://stackoverflow.com/users/13170636/kartikey"><img src="https://stackoverflow.com/users/flair/13170636.png?theme=dark" width="208" height="58" alt="profile for Kartikey at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Kartikey at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
